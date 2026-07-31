@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D4_SocialNetwork\\D4_SocialNetwork.csproj": {}
+    "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D2_SparseArrays\\D2_SparseArrays.csproj": {}
   },
   "projects": {
-    "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D4_SocialNetwork\\D4_SocialNetwork.csproj": {
+    "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D2_SparseArrays\\D2_SparseArrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D4_SocialNetwork\\D4_SocialNetwork.csproj",
-        "projectName": "D4_SocialNetwork",
-        "projectPath": "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D4_SocialNetwork\\D4_SocialNetwork.csproj",
+        "projectUniqueName": "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D2_SparseArrays\\D2_SparseArrays.csproj",
+        "projectName": "D2_SparseArrays",
+        "projectPath": "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D2_SparseArrays\\D2_SparseArrays.csproj",
         "packagesPath": "C:\\Users\\basil\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D4_SocialNetwork\\obj\\",
+        "outputPath": "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D2_SparseArrays\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

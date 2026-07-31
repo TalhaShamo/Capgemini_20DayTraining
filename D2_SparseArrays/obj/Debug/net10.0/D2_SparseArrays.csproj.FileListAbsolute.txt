@@ -1,0 +1,15 @@
+C:\Users\basil\Desktop\Capgemini20Day\D2_SparseArrays\bin\Debug\net10.0\D2_SparseArrays.exe
+C:\Users\basil\Desktop\Capgemini20Day\D2_SparseArrays\bin\Debug\net10.0\D2_SparseArrays.deps.json
+C:\Users\basil\Desktop\Capgemini20Day\D2_SparseArrays\bin\Debug\net10.0\D2_SparseArrays.runtimeconfig.json
+C:\Users\basil\Desktop\Capgemini20Day\D2_SparseArrays\bin\Debug\net10.0\D2_SparseArrays.dll
+C:\Users\basil\Desktop\Capgemini20Day\D2_SparseArrays\bin\Debug\net10.0\D2_SparseArrays.pdb
+C:\Users\basil\Desktop\Capgemini20Day\D2_SparseArrays\obj\Debug\net10.0\D2_SparseArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basil\Desktop\Capgemini20Day\D2_SparseArrays\obj\Debug\net10.0\D2_SparseArrays.AssemblyInfoInputs.cache
+C:\Users\basil\Desktop\Capgemini20Day\D2_SparseArrays\obj\Debug\net10.0\D2_SparseArrays.AssemblyInfo.cs
+C:\Users\basil\Desktop\Capgemini20Day\D2_SparseArrays\obj\Debug\net10.0\D2_SparseArrays.csproj.CoreCompileInputs.cache
+C:\Users\basil\Desktop\Capgemini20Day\D2_SparseArrays\obj\Debug\net10.0\D2_SparseArrays.sourcelink.json
+C:\Users\basil\Desktop\Capgemini20Day\D2_SparseArrays\obj\Debug\net10.0\D2_SparseArrays.dll
+C:\Users\basil\Desktop\Capgemini20Day\D2_SparseArrays\obj\Debug\net10.0\refint\D2_SparseArrays.dll
+C:\Users\basil\Desktop\Capgemini20Day\D2_SparseArrays\obj\Debug\net10.0\D2_SparseArrays.pdb
+C:\Users\basil\Desktop\Capgemini20Day\D2_SparseArrays\obj\Debug\net10.0\D2_SparseArrays.genruntimeconfig.cache
+C:\Users\basil\Desktop\Capgemini20Day\D2_SparseArrays\obj\Debug\net10.0\ref\D2_SparseArrays.dll

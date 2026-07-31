@@ -17,11 +17,11 @@ namespace ECommerceStringHandling
         {
             Console.WriteLine("E-COMMERCE ORDER DETAILS\n");
 
-            // DisplayOrders();
+            DisplayOrders();
 
-            // DisplayUpperCaseNames();
+            DisplayUpperCaseNames();
 
-            // DisplayPending();
+            DisplayPending();
 
             DisplayDelivered();
         }
