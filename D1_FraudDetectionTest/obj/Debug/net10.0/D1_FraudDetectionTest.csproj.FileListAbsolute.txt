@@ -1,0 +1,15 @@
+C:\Users\basil\Desktop\C_Sharp\D1_FraudDetectionTest\bin\Debug\net10.0\D1_FraudDetectionTest.exe
+C:\Users\basil\Desktop\C_Sharp\D1_FraudDetectionTest\bin\Debug\net10.0\D1_FraudDetectionTest.deps.json
+C:\Users\basil\Desktop\C_Sharp\D1_FraudDetectionTest\bin\Debug\net10.0\D1_FraudDetectionTest.runtimeconfig.json
+C:\Users\basil\Desktop\C_Sharp\D1_FraudDetectionTest\bin\Debug\net10.0\D1_FraudDetectionTest.dll
+C:\Users\basil\Desktop\C_Sharp\D1_FraudDetectionTest\bin\Debug\net10.0\D1_FraudDetectionTest.pdb
+C:\Users\basil\Desktop\C_Sharp\D1_FraudDetectionTest\obj\Debug\net10.0\D1_FraudDetectionTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basil\Desktop\C_Sharp\D1_FraudDetectionTest\obj\Debug\net10.0\D1_FraudDetectionTest.AssemblyInfoInputs.cache
+C:\Users\basil\Desktop\C_Sharp\D1_FraudDetectionTest\obj\Debug\net10.0\D1_FraudDetectionTest.AssemblyInfo.cs
+C:\Users\basil\Desktop\C_Sharp\D1_FraudDetectionTest\obj\Debug\net10.0\D1_FraudDetectionTest.csproj.CoreCompileInputs.cache
+C:\Users\basil\Desktop\C_Sharp\D1_FraudDetectionTest\obj\Debug\net10.0\D1_FraudDetectionTest.sourcelink.json
+C:\Users\basil\Desktop\C_Sharp\D1_FraudDetectionTest\obj\Debug\net10.0\D1_FraudDetectionTest.dll
+C:\Users\basil\Desktop\C_Sharp\D1_FraudDetectionTest\obj\Debug\net10.0\refint\D1_FraudDetectionTest.dll
+C:\Users\basil\Desktop\C_Sharp\D1_FraudDetectionTest\obj\Debug\net10.0\D1_FraudDetectionTest.pdb
+C:\Users\basil\Desktop\C_Sharp\D1_FraudDetectionTest\obj\Debug\net10.0\D1_FraudDetectionTest.genruntimeconfig.cache
+C:\Users\basil\Desktop\C_Sharp\D1_FraudDetectionTest\obj\Debug\net10.0\ref\D1_FraudDetectionTest.dll

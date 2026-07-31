@@ -1,0 +1,15 @@
+C:\Users\basil\Desktop\C_Sharp\D2_Training\bin\Debug\net10.0\D2_Training.exe
+C:\Users\basil\Desktop\C_Sharp\D2_Training\bin\Debug\net10.0\D2_Training.deps.json
+C:\Users\basil\Desktop\C_Sharp\D2_Training\bin\Debug\net10.0\D2_Training.runtimeconfig.json
+C:\Users\basil\Desktop\C_Sharp\D2_Training\bin\Debug\net10.0\D2_Training.dll
+C:\Users\basil\Desktop\C_Sharp\D2_Training\bin\Debug\net10.0\D2_Training.pdb
+C:\Users\basil\Desktop\C_Sharp\D2_Training\obj\Debug\net10.0\D2_Training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basil\Desktop\C_Sharp\D2_Training\obj\Debug\net10.0\D2_Training.AssemblyInfoInputs.cache
+C:\Users\basil\Desktop\C_Sharp\D2_Training\obj\Debug\net10.0\D2_Training.AssemblyInfo.cs
+C:\Users\basil\Desktop\C_Sharp\D2_Training\obj\Debug\net10.0\D2_Training.csproj.CoreCompileInputs.cache
+C:\Users\basil\Desktop\C_Sharp\D2_Training\obj\Debug\net10.0\D2_Training.sourcelink.json
+C:\Users\basil\Desktop\C_Sharp\D2_Training\obj\Debug\net10.0\D2_Training.dll
+C:\Users\basil\Desktop\C_Sharp\D2_Training\obj\Debug\net10.0\refint\D2_Training.dll
+C:\Users\basil\Desktop\C_Sharp\D2_Training\obj\Debug\net10.0\D2_Training.pdb
+C:\Users\basil\Desktop\C_Sharp\D2_Training\obj\Debug\net10.0\D2_Training.genruntimeconfig.cache
+C:\Users\basil\Desktop\C_Sharp\D2_Training\obj\Debug\net10.0\ref\D2_Training.dll

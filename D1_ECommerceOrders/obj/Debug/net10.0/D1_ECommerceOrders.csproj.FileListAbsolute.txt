@@ -1,0 +1,15 @@
+C:\Users\basil\Desktop\C_Sharp\D1_ECommerceOrders\bin\Debug\net10.0\D1_ECommerceOrders.exe
+C:\Users\basil\Desktop\C_Sharp\D1_ECommerceOrders\bin\Debug\net10.0\D1_ECommerceOrders.deps.json
+C:\Users\basil\Desktop\C_Sharp\D1_ECommerceOrders\bin\Debug\net10.0\D1_ECommerceOrders.runtimeconfig.json
+C:\Users\basil\Desktop\C_Sharp\D1_ECommerceOrders\bin\Debug\net10.0\D1_ECommerceOrders.dll
+C:\Users\basil\Desktop\C_Sharp\D1_ECommerceOrders\bin\Debug\net10.0\D1_ECommerceOrders.pdb
+C:\Users\basil\Desktop\C_Sharp\D1_ECommerceOrders\obj\Debug\net10.0\D1_ECommerceOrders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basil\Desktop\C_Sharp\D1_ECommerceOrders\obj\Debug\net10.0\D1_ECommerceOrders.AssemblyInfoInputs.cache
+C:\Users\basil\Desktop\C_Sharp\D1_ECommerceOrders\obj\Debug\net10.0\D1_ECommerceOrders.AssemblyInfo.cs
+C:\Users\basil\Desktop\C_Sharp\D1_ECommerceOrders\obj\Debug\net10.0\D1_ECommerceOrders.csproj.CoreCompileInputs.cache
+C:\Users\basil\Desktop\C_Sharp\D1_ECommerceOrders\obj\Debug\net10.0\D1_ECommerceOrders.sourcelink.json
+C:\Users\basil\Desktop\C_Sharp\D1_ECommerceOrders\obj\Debug\net10.0\D1_ECommerceOrders.dll
+C:\Users\basil\Desktop\C_Sharp\D1_ECommerceOrders\obj\Debug\net10.0\refint\D1_ECommerceOrders.dll
+C:\Users\basil\Desktop\C_Sharp\D1_ECommerceOrders\obj\Debug\net10.0\D1_ECommerceOrders.pdb
+C:\Users\basil\Desktop\C_Sharp\D1_ECommerceOrders\obj\Debug\net10.0\D1_ECommerceOrders.genruntimeconfig.cache
+C:\Users\basil\Desktop\C_Sharp\D1_ECommerceOrders\obj\Debug\net10.0\ref\D1_ECommerceOrders.dll

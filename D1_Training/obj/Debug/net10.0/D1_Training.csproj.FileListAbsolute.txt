@@ -1,0 +1,15 @@
+C:\Users\basil\Desktop\C_Sharp\D1_Training\obj\Debug\net10.0\D1_Training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basil\Desktop\C_Sharp\D1_Training\obj\Debug\net10.0\D1_Training.AssemblyInfoInputs.cache
+C:\Users\basil\Desktop\C_Sharp\D1_Training\obj\Debug\net10.0\D1_Training.AssemblyInfo.cs
+C:\Users\basil\Desktop\C_Sharp\D1_Training\obj\Debug\net10.0\D1_Training.csproj.CoreCompileInputs.cache
+C:\Users\basil\Desktop\C_Sharp\D1_Training\obj\Debug\net10.0\D1_Training.sourcelink.json
+C:\Users\basil\Desktop\C_Sharp\D1_Training\bin\Debug\net10.0\D1_Training.exe
+C:\Users\basil\Desktop\C_Sharp\D1_Training\bin\Debug\net10.0\D1_Training.deps.json
+C:\Users\basil\Desktop\C_Sharp\D1_Training\bin\Debug\net10.0\D1_Training.runtimeconfig.json
+C:\Users\basil\Desktop\C_Sharp\D1_Training\bin\Debug\net10.0\D1_Training.dll
+C:\Users\basil\Desktop\C_Sharp\D1_Training\bin\Debug\net10.0\D1_Training.pdb
+C:\Users\basil\Desktop\C_Sharp\D1_Training\obj\Debug\net10.0\D1_Training.dll
+C:\Users\basil\Desktop\C_Sharp\D1_Training\obj\Debug\net10.0\refint\D1_Training.dll
+C:\Users\basil\Desktop\C_Sharp\D1_Training\obj\Debug\net10.0\D1_Training.pdb
+C:\Users\basil\Desktop\C_Sharp\D1_Training\obj\Debug\net10.0\D1_Training.genruntimeconfig.cache
+C:\Users\basil\Desktop\C_Sharp\D1_Training\obj\Debug\net10.0\ref\D1_Training.dll
