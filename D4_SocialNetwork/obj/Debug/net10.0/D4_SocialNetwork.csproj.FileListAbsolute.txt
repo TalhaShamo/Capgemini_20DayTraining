@@ -1,0 +1,15 @@
+C:\Users\basil\Desktop\Capgemini20Day\D4_SocialNetwork\bin\Debug\net10.0\D4_SocialNetwork.exe
+C:\Users\basil\Desktop\Capgemini20Day\D4_SocialNetwork\bin\Debug\net10.0\D4_SocialNetwork.deps.json
+C:\Users\basil\Desktop\Capgemini20Day\D4_SocialNetwork\bin\Debug\net10.0\D4_SocialNetwork.runtimeconfig.json
+C:\Users\basil\Desktop\Capgemini20Day\D4_SocialNetwork\bin\Debug\net10.0\D4_SocialNetwork.dll
+C:\Users\basil\Desktop\Capgemini20Day\D4_SocialNetwork\bin\Debug\net10.0\D4_SocialNetwork.pdb
+C:\Users\basil\Desktop\Capgemini20Day\D4_SocialNetwork\obj\Debug\net10.0\D4_SocialNetwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basil\Desktop\Capgemini20Day\D4_SocialNetwork\obj\Debug\net10.0\D4_SocialNetwork.AssemblyInfoInputs.cache
+C:\Users\basil\Desktop\Capgemini20Day\D4_SocialNetwork\obj\Debug\net10.0\D4_SocialNetwork.AssemblyInfo.cs
+C:\Users\basil\Desktop\Capgemini20Day\D4_SocialNetwork\obj\Debug\net10.0\D4_SocialNetwork.csproj.CoreCompileInputs.cache
+C:\Users\basil\Desktop\Capgemini20Day\D4_SocialNetwork\obj\Debug\net10.0\D4_SocialNetwork.sourcelink.json
+C:\Users\basil\Desktop\Capgemini20Day\D4_SocialNetwork\obj\Debug\net10.0\D4_SocialNetwork.dll
+C:\Users\basil\Desktop\Capgemini20Day\D4_SocialNetwork\obj\Debug\net10.0\refint\D4_SocialNetwork.dll
+C:\Users\basil\Desktop\Capgemini20Day\D4_SocialNetwork\obj\Debug\net10.0\D4_SocialNetwork.pdb
+C:\Users\basil\Desktop\Capgemini20Day\D4_SocialNetwork\obj\Debug\net10.0\D4_SocialNetwork.genruntimeconfig.cache
+C:\Users\basil\Desktop\Capgemini20Day\D4_SocialNetwork\obj\Debug\net10.0\ref\D4_SocialNetwork.dll

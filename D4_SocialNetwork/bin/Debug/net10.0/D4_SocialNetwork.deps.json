@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "D4_SocialNetwork/1.0.0": {
+        "runtime": {
+          "D4_SocialNetwork.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "D4_SocialNetwork/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
