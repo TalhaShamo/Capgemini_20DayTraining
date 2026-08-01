@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D2_2DArray\\D2_2DArray.csproj": {}
+    "C:\\Users\\basil\\Desktop\\Capgemini20Day\\D2_2DArray\\D2_2DArray.csproj": {}
   },
   "projects": {
-    "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D2_2DArray\\D2_2DArray.csproj": {
+    "C:\\Users\\basil\\Desktop\\Capgemini20Day\\D2_2DArray\\D2_2DArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D2_2DArray\\D2_2DArray.csproj",
+        "projectUniqueName": "C:\\Users\\basil\\Desktop\\Capgemini20Day\\D2_2DArray\\D2_2DArray.csproj",
         "projectName": "D2_2DArray",
-        "projectPath": "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D2_2DArray\\D2_2DArray.csproj",
+        "projectPath": "C:\\Users\\basil\\Desktop\\Capgemini20Day\\D2_2DArray\\D2_2DArray.csproj",
         "packagesPath": "C:\\Users\\basil\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D2_2DArray\\obj\\",
+        "outputPath": "C:\\Users\\basil\\Desktop\\Capgemini20Day\\D2_2DArray\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

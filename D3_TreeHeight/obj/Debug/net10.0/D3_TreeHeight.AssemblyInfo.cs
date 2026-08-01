@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("D3_TreeHeight")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6f1a725d51f600b14d71812870e30ac381d3b26")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c97482e1273f5c6a4f5197669647a8f96837e395")]
 [assembly: System.Reflection.AssemblyProductAttribute("D3_TreeHeight")]
 [assembly: System.Reflection.AssemblyTitleAttribute("D3_TreeHeight")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

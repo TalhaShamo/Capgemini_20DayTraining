@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D4_SocialNetwork\\D4_SocialNetwork.csproj": {}
+    "C:\\Users\\basil\\Desktop\\Capgemini20Day\\D4_SocialNetwork\\D4_SocialNetwork.csproj": {}
   },
   "projects": {
-    "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D4_SocialNetwork\\D4_SocialNetwork.csproj": {
+    "C:\\Users\\basil\\Desktop\\Capgemini20Day\\D4_SocialNetwork\\D4_SocialNetwork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D4_SocialNetwork\\D4_SocialNetwork.csproj",
+        "projectUniqueName": "C:\\Users\\basil\\Desktop\\Capgemini20Day\\D4_SocialNetwork\\D4_SocialNetwork.csproj",
         "projectName": "D4_SocialNetwork",
-        "projectPath": "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D4_SocialNetwork\\D4_SocialNetwork.csproj",
+        "projectPath": "C:\\Users\\basil\\Desktop\\Capgemini20Day\\D4_SocialNetwork\\D4_SocialNetwork.csproj",
         "packagesPath": "C:\\Users\\basil\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D4_SocialNetwork\\obj\\",
+        "outputPath": "C:\\Users\\basil\\Desktop\\Capgemini20Day\\D4_SocialNetwork\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

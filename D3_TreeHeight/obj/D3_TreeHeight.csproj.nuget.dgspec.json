@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D3_TreeHeight\\D3_TreeHeight.csproj": {}
+    "C:\\Users\\basil\\Desktop\\Capgemini20Day\\D3_TreeHeight\\D3_TreeHeight.csproj": {}
   },
   "projects": {
-    "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D3_TreeHeight\\D3_TreeHeight.csproj": {
+    "C:\\Users\\basil\\Desktop\\Capgemini20Day\\D3_TreeHeight\\D3_TreeHeight.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D3_TreeHeight\\D3_TreeHeight.csproj",
+        "projectUniqueName": "C:\\Users\\basil\\Desktop\\Capgemini20Day\\D3_TreeHeight\\D3_TreeHeight.csproj",
         "projectName": "D3_TreeHeight",
-        "projectPath": "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D3_TreeHeight\\D3_TreeHeight.csproj",
+        "projectPath": "C:\\Users\\basil\\Desktop\\Capgemini20Day\\D3_TreeHeight\\D3_TreeHeight.csproj",
         "packagesPath": "C:\\Users\\basil\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D3_TreeHeight\\obj\\",
+        "outputPath": "C:\\Users\\basil\\Desktop\\Capgemini20Day\\D3_TreeHeight\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

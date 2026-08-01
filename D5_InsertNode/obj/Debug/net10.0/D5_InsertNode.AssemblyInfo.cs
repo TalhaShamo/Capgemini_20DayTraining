@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("D5_InsertNode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b28136322c057afe53f0616587d4221246f0971a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c97482e1273f5c6a4f5197669647a8f96837e395")]
 [assembly: System.Reflection.AssemblyProductAttribute("D5_InsertNode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("D5_InsertNode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
