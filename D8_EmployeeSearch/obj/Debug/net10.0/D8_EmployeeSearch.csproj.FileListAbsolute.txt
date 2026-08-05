@@ -1,0 +1,15 @@
+C:\Users\basil\Desktop\Capgemini20Day\D8_EmployeeSearch\bin\Debug\net10.0\D8_EmployeeSearch.exe
+C:\Users\basil\Desktop\Capgemini20Day\D8_EmployeeSearch\bin\Debug\net10.0\D8_EmployeeSearch.deps.json
+C:\Users\basil\Desktop\Capgemini20Day\D8_EmployeeSearch\bin\Debug\net10.0\D8_EmployeeSearch.runtimeconfig.json
+C:\Users\basil\Desktop\Capgemini20Day\D8_EmployeeSearch\bin\Debug\net10.0\D8_EmployeeSearch.dll
+C:\Users\basil\Desktop\Capgemini20Day\D8_EmployeeSearch\bin\Debug\net10.0\D8_EmployeeSearch.pdb
+C:\Users\basil\Desktop\Capgemini20Day\D8_EmployeeSearch\obj\Debug\net10.0\D8_EmployeeSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basil\Desktop\Capgemini20Day\D8_EmployeeSearch\obj\Debug\net10.0\D8_EmployeeSearch.AssemblyInfoInputs.cache
+C:\Users\basil\Desktop\Capgemini20Day\D8_EmployeeSearch\obj\Debug\net10.0\D8_EmployeeSearch.AssemblyInfo.cs
+C:\Users\basil\Desktop\Capgemini20Day\D8_EmployeeSearch\obj\Debug\net10.0\D8_EmployeeSearch.csproj.CoreCompileInputs.cache
+C:\Users\basil\Desktop\Capgemini20Day\D8_EmployeeSearch\obj\Debug\net10.0\D8_EmployeeSearch.sourcelink.json
+C:\Users\basil\Desktop\Capgemini20Day\D8_EmployeeSearch\obj\Debug\net10.0\D8_EmployeeSearch.dll
+C:\Users\basil\Desktop\Capgemini20Day\D8_EmployeeSearch\obj\Debug\net10.0\refint\D8_EmployeeSearch.dll
+C:\Users\basil\Desktop\Capgemini20Day\D8_EmployeeSearch\obj\Debug\net10.0\D8_EmployeeSearch.pdb
+C:\Users\basil\Desktop\Capgemini20Day\D8_EmployeeSearch\obj\Debug\net10.0\D8_EmployeeSearch.genruntimeconfig.cache
+C:\Users\basil\Desktop\Capgemini20Day\D8_EmployeeSearch\obj\Debug\net10.0\ref\D8_EmployeeSearch.dll
