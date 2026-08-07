@@ -1,0 +1,15 @@
+C:\Users\basil\Desktop\Capgemini20Day\D8_BusinessStudy\bin\Debug\net10.0\D8_BusinessStudy.exe
+C:\Users\basil\Desktop\Capgemini20Day\D8_BusinessStudy\bin\Debug\net10.0\D8_BusinessStudy.deps.json
+C:\Users\basil\Desktop\Capgemini20Day\D8_BusinessStudy\bin\Debug\net10.0\D8_BusinessStudy.runtimeconfig.json
+C:\Users\basil\Desktop\Capgemini20Day\D8_BusinessStudy\bin\Debug\net10.0\D8_BusinessStudy.dll
+C:\Users\basil\Desktop\Capgemini20Day\D8_BusinessStudy\bin\Debug\net10.0\D8_BusinessStudy.pdb
+C:\Users\basil\Desktop\Capgemini20Day\D8_BusinessStudy\obj\Debug\net10.0\D8_BusinessStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basil\Desktop\Capgemini20Day\D8_BusinessStudy\obj\Debug\net10.0\D8_BusinessStudy.AssemblyInfoInputs.cache
+C:\Users\basil\Desktop\Capgemini20Day\D8_BusinessStudy\obj\Debug\net10.0\D8_BusinessStudy.AssemblyInfo.cs
+C:\Users\basil\Desktop\Capgemini20Day\D8_BusinessStudy\obj\Debug\net10.0\D8_BusinessStudy.csproj.CoreCompileInputs.cache
+C:\Users\basil\Desktop\Capgemini20Day\D8_BusinessStudy\obj\Debug\net10.0\D8_BusinessStudy.sourcelink.json
+C:\Users\basil\Desktop\Capgemini20Day\D8_BusinessStudy\obj\Debug\net10.0\D8_BusinessStudy.dll
+C:\Users\basil\Desktop\Capgemini20Day\D8_BusinessStudy\obj\Debug\net10.0\refint\D8_BusinessStudy.dll
+C:\Users\basil\Desktop\Capgemini20Day\D8_BusinessStudy\obj\Debug\net10.0\D8_BusinessStudy.pdb
+C:\Users\basil\Desktop\Capgemini20Day\D8_BusinessStudy\obj\Debug\net10.0\D8_BusinessStudy.genruntimeconfig.cache
+C:\Users\basil\Desktop\Capgemini20Day\D8_BusinessStudy\obj\Debug\net10.0\ref\D8_BusinessStudy.dll

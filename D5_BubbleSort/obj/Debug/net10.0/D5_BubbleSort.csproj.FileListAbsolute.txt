@@ -1,0 +1,15 @@
+C:\Users\basil\Desktop\Capgemini20Day\D5_BubbleSort\bin\Debug\net10.0\D5_BubbleSort.exe
+C:\Users\basil\Desktop\Capgemini20Day\D5_BubbleSort\bin\Debug\net10.0\D5_BubbleSort.deps.json
+C:\Users\basil\Desktop\Capgemini20Day\D5_BubbleSort\bin\Debug\net10.0\D5_BubbleSort.runtimeconfig.json
+C:\Users\basil\Desktop\Capgemini20Day\D5_BubbleSort\bin\Debug\net10.0\D5_BubbleSort.dll
+C:\Users\basil\Desktop\Capgemini20Day\D5_BubbleSort\bin\Debug\net10.0\D5_BubbleSort.pdb
+C:\Users\basil\Desktop\Capgemini20Day\D5_BubbleSort\obj\Debug\net10.0\D5_BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basil\Desktop\Capgemini20Day\D5_BubbleSort\obj\Debug\net10.0\D5_BubbleSort.AssemblyInfoInputs.cache
+C:\Users\basil\Desktop\Capgemini20Day\D5_BubbleSort\obj\Debug\net10.0\D5_BubbleSort.AssemblyInfo.cs
+C:\Users\basil\Desktop\Capgemini20Day\D5_BubbleSort\obj\Debug\net10.0\D5_BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\basil\Desktop\Capgemini20Day\D5_BubbleSort\obj\Debug\net10.0\D5_BubbleSort.sourcelink.json
+C:\Users\basil\Desktop\Capgemini20Day\D5_BubbleSort\obj\Debug\net10.0\D5_BubbleSort.dll
+C:\Users\basil\Desktop\Capgemini20Day\D5_BubbleSort\obj\Debug\net10.0\refint\D5_BubbleSort.dll
+C:\Users\basil\Desktop\Capgemini20Day\D5_BubbleSort\obj\Debug\net10.0\D5_BubbleSort.pdb
+C:\Users\basil\Desktop\Capgemini20Day\D5_BubbleSort\obj\Debug\net10.0\D5_BubbleSort.genruntimeconfig.cache
+C:\Users\basil\Desktop\Capgemini20Day\D5_BubbleSort\obj\Debug\net10.0\ref\D5_BubbleSort.dll

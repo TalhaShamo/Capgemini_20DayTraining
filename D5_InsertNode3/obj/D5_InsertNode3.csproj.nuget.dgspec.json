@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D5_InsertNode3\\D5_InsertNode3.csproj": {}
+    "C:\\Users\\basil\\Desktop\\Capgemini20Day\\D5_InsertNode3\\D5_InsertNode3.csproj": {}
   },
   "projects": {
-    "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D5_InsertNode3\\D5_InsertNode3.csproj": {
+    "C:\\Users\\basil\\Desktop\\Capgemini20Day\\D5_InsertNode3\\D5_InsertNode3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D5_InsertNode3\\D5_InsertNode3.csproj",
+        "projectUniqueName": "C:\\Users\\basil\\Desktop\\Capgemini20Day\\D5_InsertNode3\\D5_InsertNode3.csproj",
         "projectName": "D5_InsertNode3",
-        "projectPath": "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D5_InsertNode3\\D5_InsertNode3.csproj",
+        "projectPath": "C:\\Users\\basil\\Desktop\\Capgemini20Day\\D5_InsertNode3\\D5_InsertNode3.csproj",
         "packagesPath": "C:\\Users\\basil\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D5_InsertNode3\\obj\\",
+        "outputPath": "C:\\Users\\basil\\Desktop\\Capgemini20Day\\D5_InsertNode3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

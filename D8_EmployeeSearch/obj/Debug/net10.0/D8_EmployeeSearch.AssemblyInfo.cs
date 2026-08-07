@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("D8_EmployeeSearch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98041f45800e5e9bf39efccc467b1b3aef4dc694")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6be9bf21ba7dbdf72373e5aa88723a3733dd44d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("D8_EmployeeSearch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("D8_EmployeeSearch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

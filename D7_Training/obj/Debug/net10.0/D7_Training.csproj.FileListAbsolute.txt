@@ -1,0 +1,15 @@
+C:\Users\basil\Desktop\Capgemini20Day\D7_Training\bin\Debug\net10.0\D7_Training.exe
+C:\Users\basil\Desktop\Capgemini20Day\D7_Training\bin\Debug\net10.0\D7_Training.deps.json
+C:\Users\basil\Desktop\Capgemini20Day\D7_Training\bin\Debug\net10.0\D7_Training.runtimeconfig.json
+C:\Users\basil\Desktop\Capgemini20Day\D7_Training\bin\Debug\net10.0\D7_Training.dll
+C:\Users\basil\Desktop\Capgemini20Day\D7_Training\bin\Debug\net10.0\D7_Training.pdb
+C:\Users\basil\Desktop\Capgemini20Day\D7_Training\obj\Debug\net10.0\D7_Training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basil\Desktop\Capgemini20Day\D7_Training\obj\Debug\net10.0\D7_Training.AssemblyInfoInputs.cache
+C:\Users\basil\Desktop\Capgemini20Day\D7_Training\obj\Debug\net10.0\D7_Training.AssemblyInfo.cs
+C:\Users\basil\Desktop\Capgemini20Day\D7_Training\obj\Debug\net10.0\D7_Training.csproj.CoreCompileInputs.cache
+C:\Users\basil\Desktop\Capgemini20Day\D7_Training\obj\Debug\net10.0\D7_Training.sourcelink.json
+C:\Users\basil\Desktop\Capgemini20Day\D7_Training\obj\Debug\net10.0\D7_Training.dll
+C:\Users\basil\Desktop\Capgemini20Day\D7_Training\obj\Debug\net10.0\refint\D7_Training.dll
+C:\Users\basil\Desktop\Capgemini20Day\D7_Training\obj\Debug\net10.0\D7_Training.pdb
+C:\Users\basil\Desktop\Capgemini20Day\D7_Training\obj\Debug\net10.0\D7_Training.genruntimeconfig.cache
+C:\Users\basil\Desktop\Capgemini20Day\D7_Training\obj\Debug\net10.0\ref\D7_Training.dll

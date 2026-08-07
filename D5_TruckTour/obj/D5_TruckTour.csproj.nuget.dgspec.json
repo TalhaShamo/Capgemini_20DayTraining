@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D5_TruckTour\\D5_TruckTour.csproj": {}
+    "C:\\Users\\basil\\Desktop\\Capgemini20Day\\D5_TruckTour\\D5_TruckTour.csproj": {}
   },
   "projects": {
-    "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D5_TruckTour\\D5_TruckTour.csproj": {
+    "C:\\Users\\basil\\Desktop\\Capgemini20Day\\D5_TruckTour\\D5_TruckTour.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D5_TruckTour\\D5_TruckTour.csproj",
+        "projectUniqueName": "C:\\Users\\basil\\Desktop\\Capgemini20Day\\D5_TruckTour\\D5_TruckTour.csproj",
         "projectName": "D5_TruckTour",
-        "projectPath": "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D5_TruckTour\\D5_TruckTour.csproj",
+        "projectPath": "C:\\Users\\basil\\Desktop\\Capgemini20Day\\D5_TruckTour\\D5_TruckTour.csproj",
         "packagesPath": "C:\\Users\\basil\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D5_TruckTour\\obj\\",
+        "outputPath": "C:\\Users\\basil\\Desktop\\Capgemini20Day\\D5_TruckTour\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

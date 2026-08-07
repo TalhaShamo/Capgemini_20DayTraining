@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "D8_BusinessStudy/1.0.0": {
+        "runtime": {
+          "D8_BusinessStudy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "D8_BusinessStudy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
