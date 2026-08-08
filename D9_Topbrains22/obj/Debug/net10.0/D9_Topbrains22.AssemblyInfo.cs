@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("D9_Topbrains22")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+700f0cad5589d1b9b2fdb4fb5818c50e3611297f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2bc0cd0c98189fae113bba2d96fcfa6e814214e")]
 [assembly: System.Reflection.AssemblyProductAttribute("D9_Topbrains22")]
 [assembly: System.Reflection.AssemblyTitleAttribute("D9_Topbrains22")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

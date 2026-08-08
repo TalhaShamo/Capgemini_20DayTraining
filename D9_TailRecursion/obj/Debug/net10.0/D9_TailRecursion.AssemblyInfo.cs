@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("D9_TailRecursion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6be9bf21ba7dbdf72373e5aa88723a3733dd44d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2bc0cd0c98189fae113bba2d96fcfa6e814214e")]
 [assembly: System.Reflection.AssemblyProductAttribute("D9_TailRecursion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("D9_TailRecursion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

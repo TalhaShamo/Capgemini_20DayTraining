@@ -1,0 +1,15 @@
+C:\Users\basil\Desktop\Capgemini20Day\D9_Topbrains20\bin\Debug\net10.0\D9_Topbrains20.exe
+C:\Users\basil\Desktop\Capgemini20Day\D9_Topbrains20\bin\Debug\net10.0\D9_Topbrains20.deps.json
+C:\Users\basil\Desktop\Capgemini20Day\D9_Topbrains20\bin\Debug\net10.0\D9_Topbrains20.runtimeconfig.json
+C:\Users\basil\Desktop\Capgemini20Day\D9_Topbrains20\bin\Debug\net10.0\D9_Topbrains20.dll
+C:\Users\basil\Desktop\Capgemini20Day\D9_Topbrains20\bin\Debug\net10.0\D9_Topbrains20.pdb
+C:\Users\basil\Desktop\Capgemini20Day\D9_Topbrains20\obj\Debug\net10.0\D9_Topbrains20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basil\Desktop\Capgemini20Day\D9_Topbrains20\obj\Debug\net10.0\D9_Topbrains20.AssemblyInfoInputs.cache
+C:\Users\basil\Desktop\Capgemini20Day\D9_Topbrains20\obj\Debug\net10.0\D9_Topbrains20.AssemblyInfo.cs
+C:\Users\basil\Desktop\Capgemini20Day\D9_Topbrains20\obj\Debug\net10.0\D9_Topbrains20.csproj.CoreCompileInputs.cache
+C:\Users\basil\Desktop\Capgemini20Day\D9_Topbrains20\obj\Debug\net10.0\D9_Topbrains20.sourcelink.json
+C:\Users\basil\Desktop\Capgemini20Day\D9_Topbrains20\obj\Debug\net10.0\D9_Topbrains20.dll
+C:\Users\basil\Desktop\Capgemini20Day\D9_Topbrains20\obj\Debug\net10.0\refint\D9_Topbrains20.dll
+C:\Users\basil\Desktop\Capgemini20Day\D9_Topbrains20\obj\Debug\net10.0\D9_Topbrains20.pdb
+C:\Users\basil\Desktop\Capgemini20Day\D9_Topbrains20\obj\Debug\net10.0\D9_Topbrains20.genruntimeconfig.cache
+C:\Users\basil\Desktop\Capgemini20Day\D9_Topbrains20\obj\Debug\net10.0\ref\D9_Topbrains20.dll

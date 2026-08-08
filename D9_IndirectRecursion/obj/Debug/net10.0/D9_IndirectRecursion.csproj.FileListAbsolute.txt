@@ -1,0 +1,15 @@
+C:\Users\basil\Desktop\Capgemini20Day\D9_IndirectRecursion\bin\Debug\net10.0\D9_IndirectRecursion.exe
+C:\Users\basil\Desktop\Capgemini20Day\D9_IndirectRecursion\bin\Debug\net10.0\D9_IndirectRecursion.deps.json
+C:\Users\basil\Desktop\Capgemini20Day\D9_IndirectRecursion\bin\Debug\net10.0\D9_IndirectRecursion.runtimeconfig.json
+C:\Users\basil\Desktop\Capgemini20Day\D9_IndirectRecursion\bin\Debug\net10.0\D9_IndirectRecursion.dll
+C:\Users\basil\Desktop\Capgemini20Day\D9_IndirectRecursion\bin\Debug\net10.0\D9_IndirectRecursion.pdb
+C:\Users\basil\Desktop\Capgemini20Day\D9_IndirectRecursion\obj\Debug\net10.0\D9_IndirectRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basil\Desktop\Capgemini20Day\D9_IndirectRecursion\obj\Debug\net10.0\D9_IndirectRecursion.AssemblyInfoInputs.cache
+C:\Users\basil\Desktop\Capgemini20Day\D9_IndirectRecursion\obj\Debug\net10.0\D9_IndirectRecursion.AssemblyInfo.cs
+C:\Users\basil\Desktop\Capgemini20Day\D9_IndirectRecursion\obj\Debug\net10.0\D9_IndirectRecursion.csproj.CoreCompileInputs.cache
+C:\Users\basil\Desktop\Capgemini20Day\D9_IndirectRecursion\obj\Debug\net10.0\D9_IndirectRecursion.sourcelink.json
+C:\Users\basil\Desktop\Capgemini20Day\D9_IndirectRecursion\obj\Debug\net10.0\D9_IndirectRecursion.dll
+C:\Users\basil\Desktop\Capgemini20Day\D9_IndirectRecursion\obj\Debug\net10.0\refint\D9_IndirectRecursion.dll
+C:\Users\basil\Desktop\Capgemini20Day\D9_IndirectRecursion\obj\Debug\net10.0\D9_IndirectRecursion.pdb
+C:\Users\basil\Desktop\Capgemini20Day\D9_IndirectRecursion\obj\Debug\net10.0\D9_IndirectRecursion.genruntimeconfig.cache
+C:\Users\basil\Desktop\Capgemini20Day\D9_IndirectRecursion\obj\Debug\net10.0\ref\D9_IndirectRecursion.dll

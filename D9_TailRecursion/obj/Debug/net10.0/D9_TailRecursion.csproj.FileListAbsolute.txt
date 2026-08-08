@@ -1,0 +1,15 @@
+C:\Users\basil\Desktop\Capgemini20Day\D9_TailRecursion\bin\Debug\net10.0\D9_TailRecursion.exe
+C:\Users\basil\Desktop\Capgemini20Day\D9_TailRecursion\bin\Debug\net10.0\D9_TailRecursion.deps.json
+C:\Users\basil\Desktop\Capgemini20Day\D9_TailRecursion\bin\Debug\net10.0\D9_TailRecursion.runtimeconfig.json
+C:\Users\basil\Desktop\Capgemini20Day\D9_TailRecursion\bin\Debug\net10.0\D9_TailRecursion.dll
+C:\Users\basil\Desktop\Capgemini20Day\D9_TailRecursion\bin\Debug\net10.0\D9_TailRecursion.pdb
+C:\Users\basil\Desktop\Capgemini20Day\D9_TailRecursion\obj\Debug\net10.0\D9_TailRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basil\Desktop\Capgemini20Day\D9_TailRecursion\obj\Debug\net10.0\D9_TailRecursion.AssemblyInfoInputs.cache
+C:\Users\basil\Desktop\Capgemini20Day\D9_TailRecursion\obj\Debug\net10.0\D9_TailRecursion.AssemblyInfo.cs
+C:\Users\basil\Desktop\Capgemini20Day\D9_TailRecursion\obj\Debug\net10.0\D9_TailRecursion.csproj.CoreCompileInputs.cache
+C:\Users\basil\Desktop\Capgemini20Day\D9_TailRecursion\obj\Debug\net10.0\D9_TailRecursion.sourcelink.json
+C:\Users\basil\Desktop\Capgemini20Day\D9_TailRecursion\obj\Debug\net10.0\D9_TailRecursion.dll
+C:\Users\basil\Desktop\Capgemini20Day\D9_TailRecursion\obj\Debug\net10.0\refint\D9_TailRecursion.dll
+C:\Users\basil\Desktop\Capgemini20Day\D9_TailRecursion\obj\Debug\net10.0\D9_TailRecursion.pdb
+C:\Users\basil\Desktop\Capgemini20Day\D9_TailRecursion\obj\Debug\net10.0\D9_TailRecursion.genruntimeconfig.cache
+C:\Users\basil\Desktop\Capgemini20Day\D9_TailRecursion\obj\Debug\net10.0\ref\D9_TailRecursion.dll
