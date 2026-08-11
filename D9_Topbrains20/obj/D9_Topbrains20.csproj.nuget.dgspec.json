@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D9_Topbrains20\\D9_Topbrains20.csproj": {}
+    "C:\\Users\\basil\\Desktop\\Capgemini20Day\\D9_Topbrains20\\D9_Topbrains20.csproj": {}
   },
   "projects": {
-    "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D9_Topbrains20\\D9_Topbrains20.csproj": {
+    "C:\\Users\\basil\\Desktop\\Capgemini20Day\\D9_Topbrains20\\D9_Topbrains20.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D9_Topbrains20\\D9_Topbrains20.csproj",
+        "projectUniqueName": "C:\\Users\\basil\\Desktop\\Capgemini20Day\\D9_Topbrains20\\D9_Topbrains20.csproj",
         "projectName": "D9_Topbrains20",
-        "projectPath": "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D9_Topbrains20\\D9_Topbrains20.csproj",
+        "projectPath": "C:\\Users\\basil\\Desktop\\Capgemini20Day\\D9_Topbrains20\\D9_Topbrains20.csproj",
         "packagesPath": "C:\\Users\\basil\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D9_Topbrains20\\obj\\",
+        "outputPath": "C:\\Users\\basil\\Desktop\\Capgemini20Day\\D9_Topbrains20\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
