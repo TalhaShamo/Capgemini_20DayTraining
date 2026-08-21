@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D13_LabQuestions\\D13_LabQuestions.csproj": {}
+    "C:\\Users\\basil\\Desktop\\Capgemini20Day\\D13_LabQuestions\\D13_LabQuestions.csproj": {}
   },
   "projects": {
-    "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D13_LabQuestions\\D13_LabQuestions.csproj": {
+    "C:\\Users\\basil\\Desktop\\Capgemini20Day\\D13_LabQuestions\\D13_LabQuestions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D13_LabQuestions\\D13_LabQuestions.csproj",
+        "projectUniqueName": "C:\\Users\\basil\\Desktop\\Capgemini20Day\\D13_LabQuestions\\D13_LabQuestions.csproj",
         "projectName": "D13_LabQuestions",
-        "projectPath": "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D13_LabQuestions\\D13_LabQuestions.csproj",
+        "projectPath": "C:\\Users\\basil\\Desktop\\Capgemini20Day\\D13_LabQuestions\\D13_LabQuestions.csproj",
         "packagesPath": "C:\\Users\\basil\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D13_LabQuestions\\obj\\",
+        "outputPath": "C:\\Users\\basil\\Desktop\\Capgemini20Day\\D13_LabQuestions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

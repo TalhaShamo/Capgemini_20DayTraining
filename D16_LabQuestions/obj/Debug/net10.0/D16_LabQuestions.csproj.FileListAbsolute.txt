@@ -1,0 +1,15 @@
+C:\Users\basil\Desktop\Capgemini20Day\D16_LabQuestions\bin\Debug\net10.0\D16_LabQuestions.exe
+C:\Users\basil\Desktop\Capgemini20Day\D16_LabQuestions\bin\Debug\net10.0\D16_LabQuestions.deps.json
+C:\Users\basil\Desktop\Capgemini20Day\D16_LabQuestions\bin\Debug\net10.0\D16_LabQuestions.runtimeconfig.json
+C:\Users\basil\Desktop\Capgemini20Day\D16_LabQuestions\bin\Debug\net10.0\D16_LabQuestions.dll
+C:\Users\basil\Desktop\Capgemini20Day\D16_LabQuestions\bin\Debug\net10.0\D16_LabQuestions.pdb
+C:\Users\basil\Desktop\Capgemini20Day\D16_LabQuestions\obj\Debug\net10.0\D16_LabQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basil\Desktop\Capgemini20Day\D16_LabQuestions\obj\Debug\net10.0\D16_LabQuestions.AssemblyInfoInputs.cache
+C:\Users\basil\Desktop\Capgemini20Day\D16_LabQuestions\obj\Debug\net10.0\D16_LabQuestions.AssemblyInfo.cs
+C:\Users\basil\Desktop\Capgemini20Day\D16_LabQuestions\obj\Debug\net10.0\D16_LabQuestions.csproj.CoreCompileInputs.cache
+C:\Users\basil\Desktop\Capgemini20Day\D16_LabQuestions\obj\Debug\net10.0\D16_LabQuestions.sourcelink.json
+C:\Users\basil\Desktop\Capgemini20Day\D16_LabQuestions\obj\Debug\net10.0\D16_LabQuestions.dll
+C:\Users\basil\Desktop\Capgemini20Day\D16_LabQuestions\obj\Debug\net10.0\refint\D16_LabQuestions.dll
+C:\Users\basil\Desktop\Capgemini20Day\D16_LabQuestions\obj\Debug\net10.0\D16_LabQuestions.pdb
+C:\Users\basil\Desktop\Capgemini20Day\D16_LabQuestions\obj\Debug\net10.0\D16_LabQuestions.genruntimeconfig.cache
+C:\Users\basil\Desktop\Capgemini20Day\D16_LabQuestions\obj\Debug\net10.0\ref\D16_LabQuestions.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("D5_PreOrderTraversal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2333da661cc2e76c211b48d7969f16d966ef592a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5917391e288fc34cf75430e9861799f934e25fa6")]
 [assembly: System.Reflection.AssemblyProductAttribute("D5_PreOrderTraversal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("D5_PreOrderTraversal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

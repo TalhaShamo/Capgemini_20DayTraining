@@ -1,0 +1,15 @@
+C:\Users\basil\Desktop\Capgemini20Day\D17_RealTimeScenarioQ\bin\Debug\net10.0\D17_RealTimeScenarioQ.exe
+C:\Users\basil\Desktop\Capgemini20Day\D17_RealTimeScenarioQ\bin\Debug\net10.0\D17_RealTimeScenarioQ.deps.json
+C:\Users\basil\Desktop\Capgemini20Day\D17_RealTimeScenarioQ\bin\Debug\net10.0\D17_RealTimeScenarioQ.runtimeconfig.json
+C:\Users\basil\Desktop\Capgemini20Day\D17_RealTimeScenarioQ\bin\Debug\net10.0\D17_RealTimeScenarioQ.dll
+C:\Users\basil\Desktop\Capgemini20Day\D17_RealTimeScenarioQ\bin\Debug\net10.0\D17_RealTimeScenarioQ.pdb
+C:\Users\basil\Desktop\Capgemini20Day\D17_RealTimeScenarioQ\obj\Debug\net10.0\D17_RealTimeScenarioQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basil\Desktop\Capgemini20Day\D17_RealTimeScenarioQ\obj\Debug\net10.0\D17_RealTimeScenarioQ.AssemblyInfoInputs.cache
+C:\Users\basil\Desktop\Capgemini20Day\D17_RealTimeScenarioQ\obj\Debug\net10.0\D17_RealTimeScenarioQ.AssemblyInfo.cs
+C:\Users\basil\Desktop\Capgemini20Day\D17_RealTimeScenarioQ\obj\Debug\net10.0\D17_RealTimeScenarioQ.csproj.CoreCompileInputs.cache
+C:\Users\basil\Desktop\Capgemini20Day\D17_RealTimeScenarioQ\obj\Debug\net10.0\D17_RealTimeScenarioQ.sourcelink.json
+C:\Users\basil\Desktop\Capgemini20Day\D17_RealTimeScenarioQ\obj\Debug\net10.0\D17_RealTimeScenarioQ.dll
+C:\Users\basil\Desktop\Capgemini20Day\D17_RealTimeScenarioQ\obj\Debug\net10.0\refint\D17_RealTimeScenarioQ.dll
+C:\Users\basil\Desktop\Capgemini20Day\D17_RealTimeScenarioQ\obj\Debug\net10.0\D17_RealTimeScenarioQ.pdb
+C:\Users\basil\Desktop\Capgemini20Day\D17_RealTimeScenarioQ\obj\Debug\net10.0\D17_RealTimeScenarioQ.genruntimeconfig.cache
+C:\Users\basil\Desktop\Capgemini20Day\D17_RealTimeScenarioQ\obj\Debug\net10.0\ref\D17_RealTimeScenarioQ.dll

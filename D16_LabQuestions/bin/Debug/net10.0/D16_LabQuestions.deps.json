@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "D16_LabQuestions/1.0.0": {
+        "runtime": {
+          "D16_LabQuestions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "D16_LabQuestions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
