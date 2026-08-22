@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D19_Training\\D19_Training.csproj": {}
+    "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D21_Training\\D21_Training.csproj": {}
   },
   "projects": {
-    "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D19_Training\\D19_Training.csproj": {
+    "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D21_Training\\D21_Training.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D19_Training\\D19_Training.csproj",
-        "projectName": "D19_Training",
-        "projectPath": "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D19_Training\\D19_Training.csproj",
+        "projectUniqueName": "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D21_Training\\D21_Training.csproj",
+        "projectName": "D21_Training",
+        "projectPath": "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D21_Training\\D21_Training.csproj",
         "packagesPath": "C:\\Users\\basil\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D19_Training\\obj\\",
+        "outputPath": "c:\\Users\\basil\\Desktop\\Capgemini20Day\\D21_Training\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
